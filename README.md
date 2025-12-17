@@ -242,13 +242,13 @@
 
 
 <!-- ## 🐍 Snake Contribution Animation -->
-<!-- <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbG5sc3YzYXQ1ZzI1dzNqenQ1ZmxsZzE2dDlqdzZmZ3d5bW5jajl0MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/kEKcOWl8RMLde/giphy.webp" width="30">&nbsp;***Snake Contribution Animation*** 
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbG5sc3YzYXQ1ZzI1dzNqenQ1ZmxsZzE2dDlqdzZmZ3d5bW5jajl0MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/kEKcOWl8RMLde/giphy.webp" width="30">&nbsp;***Snake Contribution Animation*** 
 
 <div align="center">
  
-![snake gif](https://github.com/kritimishra2805-ai/Jyoti-1665/blob/output/github-snake-dark.svg)
+![snake gif](https://github.com/rajeevtiwari1509/rajeevtiwari1509/blob/output/github-snake-dark.svg)
  
-</div> -->
+</div>
 
 <br>
 <!-- ⭐💫 Shower stars if you like my repos -->
@@ -286,3 +286,4 @@
 <br>but please avoid any commercial redistribution.<img src="Wrong.gif" width="30" alt="Wrong" />*
 
 <!-- The end of my GitHub profile -->
+
